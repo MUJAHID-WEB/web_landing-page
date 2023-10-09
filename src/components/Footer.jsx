@@ -28,7 +28,7 @@ const Footer = () => {
             </div>
         </div>
         <div className='footer-menu'>
-            <h1>TXN</h1>
+            <h1>Web</h1>
             <ul className='footer-inner-nav'>
                 <li><a href="#hub">Hub</a></li>
                 <li><a href="#mint">Mint</a></li>
@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
         <hr />
         <div>
-            <p className='text-center'>&#169; Copyright 2023-2028 | All Right Reserved |</p>
+            <p className='text-center'>&#169; Copyright 2023-2028 | All Right Reserved | Develop By: Mujahidul Islam</p>
         </div>
     </div>
   )

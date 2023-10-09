@@ -20,7 +20,7 @@ const Navbar = () => {
     <div className='navbar'>
         <div onClick={handleClick} className={`${showNav ? "hamburger1":"hamburger"}`}></div>
         <div className='logo'>
-            <h1>TXN</h1>
+            <h1>Web</h1>
             <nav className='menu'>
                 <ul className='inner-nav'>
                     <li><a href="#hub">Hub</a></li>

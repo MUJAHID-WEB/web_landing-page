@@ -5,9 +5,9 @@ const Container = () => {
     <div>
         <div className='container'>
             <div className='text'>
-                <h3>WEB3 Experience</h3>
-                <h1>TXN AUTOMATION</h1>
-                <p>TXN is a web3 automated market aggregator and multi-chain batch miner. TXN was created with the goal of creating a seamless and frictionless experience...</p>
+                <h3>WEB Experience</h3>
+                <h1>Web AUTOMATION</h1>
+                <p>Web is a web automated market aggregator and multi-chain batch miner. Web was created with the goal of creating a seamless and frictionless experience...</p>
                 <div className='button'><a href="/">Explore Now &#8599;</a></div>
             </div>
             <div className='image'>

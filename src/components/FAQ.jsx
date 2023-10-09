@@ -33,7 +33,7 @@ const FAQ = () => {
                 </div>
                 <div className='qa'>
                     <input type="checkbox" id="collapsible-head-4" />
-                    <label for="collapsible-head-4">What chain do txn support?</label>
+                    <label for="collapsible-head-4">What chain do Web support?</label>
                     <div class="collapsible-text-4">
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit odit similique doloremque
                             ab unde. Placeat recusandae nobis voluptate atque, fugit itaque nam quos.</p>
@@ -49,7 +49,7 @@ const FAQ = () => {
                 </div>
                 <div className='qa'>
                     <input type="checkbox" id="collapsible-head-6" />
-                    <label for="collapsible-head-6">Is TXN safe to use?</label>
+                    <label for="collapsible-head-6">Is Web safe to use?</label>
                     <div class="collapsible-text-6">
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit odit similique doloremque
                             ab unde. Placeat recusandae nobis voluptate atque, fugit itaque nam quos.</p>
